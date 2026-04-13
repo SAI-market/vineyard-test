@@ -117,7 +117,7 @@
       }
 
       const encoded = encodeURIComponent(message);
-      const waURL   = "https://wa.me/XXXXXXXXXXX?text=" + encoded;
+      const waURL   = "https://wa.me/5492323521229?text=" + encoded;
 
       window.open(waURL, "_blank", "noopener,noreferrer");
     });
